@@ -14,6 +14,7 @@ A full-stack web application for managing students and their exam results.
 
 - **Backend:** Java, Spring Boot, Spring Data JPA, MySQL
 - **Frontend:** React, Material-UI
+- **API Testing:** Postman
 - **Database:** MySQL
 
 ## How to Run
